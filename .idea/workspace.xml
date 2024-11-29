@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="860ec07b-91d5-440b-a47a-4bca28318ab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamPrep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advanced/SlidingWindowMaximumSumSubarrayOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfArrays/DeclarationAndInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfArrays/TraversingAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonArrayOperations/ArrayDeletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonArrayOperations/ArrayInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoundationalProblem/CheckSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoundationalProblem/FindtheSecondLargestElemen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoundationalProblem/MergeTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoundationalProblem/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoundationalProblem/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoundationalProblem/RotateanArraybykPositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateTopics/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateTopics/FindClosestUsingBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateTopics/FirstOccuranceUsingBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateTopics/LastOccuranceUsingBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateTopics/SpiralMatrix.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pUFciQNNPFtSWwVACv6Qs3K7W5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayInsertion.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.FindClosestUsingBinarySearch.executor": "Run",
+    "Application.FindtheSecondLargestElemen.executor": "Run",
+    "Application.FirstOccuranceUsingBinarySearch.executor": "Run",
+    "Application.LastOccuranceUsingBinarySearch.executor": "Run",
+    "Application.MaximumSumSubarrayOfSizeK.executor": "Run",
+    "Application.MergeTwoSortedArrays.executor": "Run",
+    "Application.RotateanArraybykPositions.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Administrator/IdeaProjects/ExamPrep/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="860ec07b-91d5-440b-a47a-4bca28318ab8" name="Changes" comment="" />
+      <created>1732812832538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732812832538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kunal/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
